@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+''
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História do Jogo Mario</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #ff0000;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #ff0000;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>História do Jogo Mario</h1>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="main-content">
+            <h2>Sobre o Jogo Mario</h2>
+            <p>Super Mario é uma das franquias de jogos mais icônicas e influentes da história dos videogames. Desenvolvido pela Nintendo, o jogo estreou em 1985 e rapidamente se tornou um marco na indústria dos jogos, estabelecendo novos padrões para o design de jogos e gráficos. Mario é um encanador italiano que embarca em aventuras para resgatar a Princesa Peach e combater o vilão Bowser.</p>
+            
+            <h2>Personagens Principais</h2>
+            
+            <h3>Mario</h3>
+            <p>Mario é o personagem principal da série e é conhecido por seu chapéu vermelho, bigode e macacão azul. Originalmente criado por Shigeru Miyamoto, Mario fez sua estreia em "Donkey Kong" como "Jumpman", mas rapidamente se tornou o herói do próprio jogo "Super Mario Bros." Mario é conhecido por suas aventuras pelo Reino dos Cogumelos e sua habilidade de saltar e usar diversos power-ups para superar desafios.</p>
+            <img src="https://example.com/mario.jpg" alt="Mario">
+            
+            <h3>Luigi</h3>
+            <p>Luigi é o irmão mais novo de Mario e frequentemente aparece ao lado dele em suas aventuras. Embora inicialmente tenha sido visto como uma espécie de "clone" de Mario, Luigi ganhou seu próprio espaço na franquia e é conhecido por seu traje verde e sua personalidade um pouco mais tímida. Luigi é o protagonista em vários jogos, incluindo "Luigi's Mansion".</p>
+            <img src="https://example.com/luigi.jpg" alt="Luigi">
+            
+            <h3>Princesa Peach</h3>
+            <p>A Princesa Peach é a governante do Reino dos Cogumelos e frequentemente é sequestrada pelo vilão Bowser, levando Mario a embarcar em suas aventuras para resgatá-la. Peach é conhecida por sua personalidade doce e sua habilidade de cuidar do reino. Em alguns jogos, ela também se torna jogável e demonstra habilidades únicas.</p>
+            <img src="https://example.com/peach.jpg" alt="Princesa Peach">
+            
+            <h3>Bowser</h3>
+            <p>Bowser é o principal antagonista da série e o rei dos Koopas. Ele frequentemente trama para sequestrar a Princesa Peach e dominar o Reino dos Cogumelos. Com sua aparência imponente, cascos espinhosos e habilidades de fogo, Bowser é um dos vilões mais memoráveis dos videogames e um desafio constante para Mario.</p>
+            <img src="https://example.com/bowser.jpg" alt="Bowser">
+        </div>
+    </div>
+</body>
+</html>
